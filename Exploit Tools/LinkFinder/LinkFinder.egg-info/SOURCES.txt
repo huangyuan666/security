@@ -1,0 +1,7 @@
+README.md
+setup.py
+LinkFinder.egg-info/PKG-INFO
+LinkFinder.egg-info/SOURCES.txt
+LinkFinder.egg-info/dependency_links.txt
+LinkFinder.egg-info/requires.txt
+LinkFinder.egg-info/top_level.txt

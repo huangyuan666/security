@@ -1,0 +1,2 @@
+[+] code:200 url : http://10.211.55.7/index.php 
+[+] code:200 url : http://10.211.55.7//web/dvwa-master/login.php 

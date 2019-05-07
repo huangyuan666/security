@@ -1,0 +1,13 @@
+pycurl
+pyparsing
+future
+six
+chardet
+
+[:python_version < "3.5"]
+configparser
+
+[dev]
+mock
+netaddr
+pip-tools

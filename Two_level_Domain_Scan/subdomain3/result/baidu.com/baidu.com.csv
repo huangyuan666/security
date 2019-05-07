@@ -1,0 +1,165 @@
+domain,CDN,IP
+www.baidu.com,No,"['61.135.169.125', '61.135.169.121']"
+mail.baidu.com,No,['61.135.165.122']
+pop.baidu.com,No,private(10.99.145.36)
+m.baidu.com,No,"['112.80.255.162', '112.80.255.163']"
+autodiscover.baidu.com,No,['61.135.165.122']
+bbs.baidu.com,No,['163.177.151.76']
+test.baidu.com,No,['180.76.134.214']
+email.baidu.com,No,['61.135.165.122']
+wap.baidu.com,No,"['61.135.186.218', '61.135.186.217']"
+vpn.baidu.com,No,['61.135.165.126']
+www2.baidu.com,No,['111.206.37.231']
+news.baidu.com,No,"['153.3.236.50', '202.108.23.82', '111.202.114.151', '123.125.115.141']"
+mobile.baidu.com,No,['112.80.255.227']
+sip.baidu.com,No,['61.135.165.108']
+www1.baidu.com,No,"['61.135.169.125', '61.135.169.121']"
+img.baidu.com,No,['61.135.186.152']
+support.baidu.com,No,"['112.80.248.234', '163.177.151.145', '202.108.23.221']"
+e.baidu.com,Yes,['112.65.203.35']
+video.baidu.com,No,['123.125.114.32']
+app.baidu.com,No,['112.80.255.227']
+my.baidu.com,No,['111.206.223.136']
+api.baidu.com,No,"['111.206.37.233', '123.125.115.11']"
+lyncdiscover.baidu.com,No,['61.135.165.111']
+dns.baidu.com,No,['202.108.22.220']
+info.baidu.com,No,['61.135.185.62']
+cdn.baidu.com,Yes,private(10.36.3.156)
+home.baidu.com,No,['202.106.2.51']
+b2b.baidu.com,No,"['61.135.169.112', '61.135.185.41']"
+service.baidu.com,No,"['112.34.111.18', '180.149.144.166', '180.97.33.42', '112.34.111.183', '117.185.16.230', '117.185.16.213', '202.106.2.78', '112.80.255.43', '112.80.255.39', '202.106.2.77', '180.149.144.165', '180.97.36.81']"
+help.baidu.com,No,"['202.106.2.78', '180.97.36.81', '180.149.144.165', '117.185.16.213', '117.185.16.230', '180.149.144.166', '112.80.255.39', '202.106.2.77', '112.34.111.18', '180.97.33.42', '112.34.111.183', '112.80.255.43']"
+vip.baidu.com,No,['123.125.115.229']
+finance.baidu.com,No,"['153.3.236.50', '202.108.23.82', '123.125.115.141', '111.202.114.151']"
+i.baidu.com,No,['61.135.185.175']
+v.baidu.com,No,['123.125.114.32']
+a.baidu.com,No,"['112.80.248.124', '123.125.114.38']"
+im.baidu.com,No,"['111.202.114.169', '111.202.114.168']"
+3g.baidu.com,No,"['112.80.255.162', '112.80.255.163']"
+image.baidu.com,No,['112.80.248.122']
+cloud.baidu.com,No,"['123.125.114.7', '163.177.151.200', '112.80.255.170']"
+u.baidu.com,No,['111.206.37.231']
+IN.baidu.com,No,['112.80.255.227']
+update.baidu.com,No,['112.80.255.221']
+tw.baidu.com,No,['123.125.114.144']
+ir.baidu.com,Yes,"['61.213.151.51', '61.213.151.50']"
+apis.baidu.com,No,['180.149.144.74']
+jp.baidu.com,No,['119.63.198.132']
+nova.baidu.com,No,private(10.26.26.89)
+dj.baidu.com,No,"['180.76.141.217', '180.76.183.17']"
+qa.baidu.com,No,['220.181.7.181']
+tongji.baidu.com,No,['202.108.23.152']
+ns2.baidu.com,No,['61.135.165.235']
+mx.baidu.com,No,['61.135.163.61']
+dev.baidu.com,No,['180.97.33.78']
+admin.baidu.com,No,private(10.26.109.19)
+ns1.baidu.com,No,['202.108.22.220']
+shop.baidu.com,No,"['220.181.163.54', '180.149.131.88']"
+mysql.baidu.com,No,private(10.105.97.153)
+crm.baidu.com,No,"['123.125.115.43', '111.13.100.58', '180.149.144.54']"
+web.baidu.com,No,private(10.48.30.87)
+files.baidu.com,No,private(10.65.43.129)
+images.baidu.com,No,['182.61.62.50']
+docs.baidu.com,No,private(10.99.57.42)
+beta.baidu.com,No,['220.181.57.113']
+db.baidu.com,No,private(10.26.109.19)
+media.baidu.com,No,"['220.181.163.54', '180.149.131.88']"
+ns3.baidu.com,No,['220.181.37.10']
+ns4.baidu.com,No,['220.181.38.10']
+ww.baidu.com,No,"['220.181.57.216', '220.181.57.217']"
+pda.baidu.com,No,"['14.215.178.37', '14.215.178.36']"
+online.baidu.com,No,"['220.181.163.54', '180.149.131.88']"
+t.baidu.com,No,['180.97.93.28']
+sms.baidu.com,No,private(10.42.4.184)
+owa.baidu.com,No,['61.135.165.119']
+ads.baidu.com,No,private(10.42.4.225)
+sc.baidu.com,No,private(10.207.6.39)
+security.baidu.com,No,private(10.58.121.74)
+proxy.baidu.com,No,['220.181.37.10']
+d.baidu.com,No,"['220.181.57.217', '220.181.57.216']"
+training.baidu.com,No,private(10.23.1.162)
+photo.baidu.com,No,['14.215.178.156']
+job.baidu.com,No,['180.97.33.57']
+static.baidu.com,No,['115.239.211.92']
+forum.baidu.com,No,private(10.26.109.19)
+pic.baidu.com,No,['180.149.131.70']
+w.baidu.com,No,"['220.181.57.216', '220.181.57.217']"
+access.baidu.com,No,private(10.94.49.39)
+dns1.baidu.com,No,['220.181.38.10']
+edu.baidu.com,No,['182.61.52.236']
+game.baidu.com,No,['180.97.33.25']
+tools.baidu.com,No,private(10.48.30.110)
+metrics.baidu.com,No,private(10.42.7.60)
+member.baidu.com,No,['112.80.255.173']
+exchange.baidu.com,No,private(10.26.109.19)
+preview.baidu.com,No,private(10.50.14.162)
+office.baidu.com,No,private(10.99.72.22)
+ad.baidu.com,No,['182.61.62.50']
+feeds.baidu.com,No,['14.215.177.186']
+svn.baidu.com,No,private(10.65.211.174)
+mx2.baidu.com,No,['61.135.163.62']
+wt.baidu.com,No,private(10.94.40.19)
+gb.baidu.com,No,private(10.94.39.59)
+cs.baidu.com,No,private(10.91.160.210)
+store.baidu.com,No,"['180.149.131.88', '220.181.163.54']"
+lib.baidu.com,No,private(10.40.20.46)
+project.baidu.com,No,private(10.40.61.49)
+hr.baidu.com,No,['180.149.144.205']
+ask.baidu.com,No,private(10.58.222.200)
+hd.baidu.com,No,['180.149.131.33']
+ws.baidu.com,No,private(10.94.35.35)
+b.baidu.com,No,"['180.149.133.167', '220.181.57.232', '180.149.131.247']"
+ss.baidu.com,No,['115.239.210.59']
+lab.baidu.com,No,['220.181.57.55']
+1.baidu.com,No,['180.97.36.93']
+git.baidu.com,No,private(10.42.4.104)
+backup.baidu.com,No,private(10.143.145.28)
+sp.baidu.com,No,private(10.143.188.18)
+photos.baidu.com,No,['180.149.131.70']
+auth.baidu.com,No,['180.149.131.246']
+hb.baidu.com,No,['180.97.33.29']
+book.baidu.com,No,['111.13.108.110']
+js.baidu.com,No,['202.106.2.53']
+vc.baidu.com,No,['61.135.165.169']
+h5.baidu.com,No,['119.75.222.180']
+t7.baidu.com,No,['112.65.203.48']
+go.baidu.com,No,['115.239.217.166']
+file.baidu.com,No,['180.149.131.33']
+falcon.baidu.com,No,private(10.36.253.135)
+xian.baidu.com,No,['180.97.33.34']
+sec.baidu.com,No,['202.106.2.63']
+poc.baidu.com,No,private(10.26.7.203)
+knowledge.baidu.com,No,private(10.88.46.23)
+lian.baidu.com,No,['123.125.115.30']
+hx.baidu.com,No,private(10.46.8.243)
+skynet.baidu.com,No,private(10.91.160.244)
+i4.baidu.com,No,['112.80.252.49']
+imc.baidu.com,No,private(10.211.6.27)
+fin.baidu.com,No,private(10.48.31.126)
+janus.baidu.com,No,private(10.206.7.110)
+idm.baidu.com,No,private(10.207.7.147)
+ssp.baidu.com,No,['123.125.115.122']
+su.baidu.com,Yes,['119.188.97.1']
+talent.baidu.com,No,['61.135.185.176']
+yc.baidu.com,No,['112.80.255.214']
+zhidao.baidu.com,No,['153.3.236.87']
+tag.baidu.com,No,"['112.80.255.48', '111.206.37.204']"
+cdc.baidu.com,No,private(10.26.5.60)
+mcp.baidu.com,No,['153.37.235.72']
+iq.baidu.com,No,private(10.81.12.102)
+msc.baidu.com,No,['106.39.162.42']
+openapi.baidu.com,No,['153.3.236.37']
+tts.baidu.com,No,['153.3.236.19']
+activity.baidu.com,No,"['112.80.255.85', '163.177.151.90', '202.106.2.65']"
+or.baidu.com,No,"['123.125.112.68', '123.125.115.15']"
+cafe.baidu.com,No,['180.149.145.220']
+url.baidu.com,No,private(10.99.57.42)
+fashion.baidu.com,No,"['220.181.7.205', '180.149.145.156']"
+gaokao.baidu.com,No,['180.149.133.164']
+fantasy.baidu.com,No,private(10.42.4.219)
+t5.baidu.com,No,['61.135.185.146']
+message.baidu.com,No,private(10.40.8.14)
+token.baidu.com,No,['115.239.210.223']
+gems.baidu.com,No,private(10.36.4.65)
+xing.baidu.com,No,['115.239.217.166']
+sample.baidu.com,No,private(10.42.7.162)
