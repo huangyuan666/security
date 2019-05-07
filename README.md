@@ -17,19 +17,19 @@
 |-Exploit Tools		
 	|- AWVS_Scan           
 	|- FUZZ
-			|- parameth          # 该工具可用于野蛮地发现get和post参数。
-			|- uplaod-fuzz-dic   # 上传fuzz字典测试
-			|- web_dic           # 基于正则的密码生成
-			|- wfuzz             # fuzz 工具
+	   |- parameth          # 该工具可用于野蛮地发现get和post参数。
+	   |- uplaod-fuzz-dic   # 上传fuzz字典测试
+	   |- web_dic           # 基于正则的密码生成
+	   |- wfuzz             # fuzz 工具
 			
 	|- GitHck        				 # GitHack是一个.git泄露利用脚本
 	|- LinkFinder   				 # 用于在js文件中发现隐藏的端点及其新的参数
 	|- PyCmd-master  				 # PyCmd 隐形一句话木马
 	|- web_pwd_common_crack  # 通用web弱口令破解脚本
 	|- XSStest
-		 	|- xsscrapy 				 # 测试它为跨站点脚本和一些SQL注入漏洞找到的每个链接
-		 	|- XSStrike
-		 	|- burtexss
+	   |- xsscrapy 				 # 测试它为跨站点脚本和一些SQL注入漏洞找到的每个链接
+	   |- XSStrike
+	   |- burtexss
 	|- enumXFF							 # 枚举X-Forwarded-Headers中的IP以绕过403限制
 	
 |-Some-Pox_oR-ExP-master
@@ -87,16 +87,10 @@
 4. burpsuite_pro_v2.0   
 5. w9scan
 6. nmap
+7. hydra
+8. msf
 
 ```
-
-
-
-
-
-
-
-
 
 
 
